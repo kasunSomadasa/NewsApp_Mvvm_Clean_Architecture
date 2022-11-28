@@ -1,7 +1,8 @@
-package com.krs.news
+package com.krs.news.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.krs.news.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

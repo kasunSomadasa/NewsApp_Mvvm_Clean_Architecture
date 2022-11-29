@@ -1,6 +1,8 @@
 package com.krs.news.data.utils
 
-// generic class that holds a value with its loading status
+/**
+ * generic class that holds a value with its loading status
+ */
 sealed class Resource<T> (
     val data:T? = null,
     val message:String? = null

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NewsApp</string>
+    <string name="empty_list">No items to display</string>
+    <string name="save_successFully">Save SuccessFully</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="delete_successFully">Delete SuccessFully</string>
+    <string name="undo">Undo</string>
 </resources>
